@@ -19,3 +19,4 @@ Zip and UnZip files with SharpZipLib dll. just move to Zip folder and check the 
 
 **[002 code]**
 
+long press item logic 长按逻辑处理
