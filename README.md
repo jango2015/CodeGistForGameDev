@@ -29,3 +29,13 @@ long press item logic
 NGUI toolTips with finger pressed
 
 常用的ToolTip功能
+
+![image](https://github.com/tinyantstudio/CodeGistForGameDev/blob/master/DesImage/ToolTips001.png)
+ 
+![image](https://github.com/tinyantstudio/CodeGistForGameDev/blob/master/DesImage/ToolTips002.png)
+
+![image](https://github.com/tinyantstudio/CodeGistForGameDev/blob/master/DesImage/ToolTips003.png)
+  
+ 
+ 
+ 
